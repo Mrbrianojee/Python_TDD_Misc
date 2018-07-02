@@ -3,7 +3,7 @@ def is_even(num):
      return num % 2 == 0
 # 1
 # def even_number_of_evens(numbers):
-#     if len(numbers) == 0:
+#     if numbers == []:
 #         return False
 #     else:
 #         count = 0
